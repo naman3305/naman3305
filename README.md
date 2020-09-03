@@ -3,11 +3,10 @@
   Naman Arora</a> 👨‍💻
 </h1>
 
-##  Still Learning Full Stack !!!
+##  Still Learning New Things !!!
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=naman3305&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=naman3305&theme=dark&hide_langs_below=1"/>
 
 <p align="center"> 
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/>
